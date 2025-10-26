@@ -10,7 +10,7 @@
 
 
 
-<img width="696" height="277" alt="Image" src="https://vip.123pan.cn/1816541419/yk6baz03t0l000d7w33fsmyk30i4kun3DIYPAqJxDIFPBGxxDqDP.png" />
+<img width="696" height="277" alt="Image" src="https://vip.123pan.cn/1816541419/yk6baz03t0n000d7w33heaxk46ddy1bmDIYPAqJxDIFPBGxxDqDP.png" />
 
 **找到该卡片，点击红框框出的按钮**
 
@@ -47,7 +47,6 @@
 <img width="536" height="378" alt="Image" src="https://vip.123pan.cn/1816541419/ymjew503t0n000d7w32yclcxhxc3d6puDIYPAqJxDIFPBGxxDqDP.png" />
 
 **点击是，开始安装补丁**
-
 
 
 
