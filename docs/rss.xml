@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨天天的博客</title><link>https://mhw-ytt.github.io</link><description>oi</description><copyright>杨天天的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?s=400&amp;u=2e68d4884d4a1c3630a0cb1462128d10927eb78f&amp;v=4</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Sun, 28 Dec 2025 09:51:14 +0000</lastBuildDate><managingEditor>杨天天的博客</managingEditor><ttl>60</ttl><webMaster>杨天天的博客</webMaster><item><title>如何让IDM冷静下来</title><link>https://mhw-ytt.github.io/post/ru-he-rang-IDM-leng-jing-xia-lai.html</link><description>打开IDM，点击下载-选项
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨天天的博客</title><link>https://mhw-ytt.github.io</link><description>oi</description><copyright>杨天天的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?s=400&amp;u=2e68d4884d4a1c3630a0cb1462128d10927eb78f&amp;v=4</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Sun, 22 Feb 2026 11:32:08 +0000</lastBuildDate><managingEditor>杨天天的博客</managingEditor><ttl>60</ttl><webMaster>杨天天的博客</webMaster><item><title>Python下载指导</title><link>https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</link><description># 部分Windows版本所支持的Python版本列举
+
+&gt; 下载链接由[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn '清华大学开源软件镜像站')提供
+
+## 系统列举及支持版本：
+
+| 系统           | 适用的Python版本    |
+| ------------ | -------------- |
+| Windows7     | [Python3.8.10](https://mirrors.tuna.tsinghua.edu.cn/python/3.8.10/ 'Python3.8.10') -  |
+| Windows8.x   | [Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/ 'Python3.10.11') - |
+| Windows10/11 | [Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/ 'Python3.14.3') +  |
+
+\#系统及其对应的Python下载链接（均为本地安装）
+
+## Windows7：
+
+[Python3.8.10](https://mirrors.tuna.tsinghua.edu.cn/python/3.8.10/python-3.8.10.exe 'Python3.8.10下载')
+
+## Windows8.x：
+
+[Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/python-3.10.11.exe 'Python3.10.11下载')
+
+## Windows10/11：
+
+[Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/python-3.14.3.exe 'Python3.14.3下载')。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</guid><pubDate>Sun, 22 Feb 2026 11:31:45 +0000</pubDate></item><item><title>如何让IDM冷静下来</title><link>https://mhw-ytt.github.io/post/ru-he-rang-IDM-leng-jing-xia-lai.html</link><description>打开IDM，点击下载-选项
 
 &lt;img width='800' height='446' alt='Image' src='https://github.com/user-attachments/assets/7653168e-66a2-4a90-9efc-5a1fb4ba838b' /&gt;
 
