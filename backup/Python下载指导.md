@@ -2,7 +2,6 @@
 > 下载链接由[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn "清华大学开源软件镜像站")提供
 
 ## 系统列举及支持版本：（Tip：[辨别自己的Windows系统版本](https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html)）
-https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html
 
 | 系统           | 适用的Python版本    |
 | ------------ | -------------- |
