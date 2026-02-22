@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨天天的博客</title><link>https://mhw-ytt.github.io</link><description>oi</description><copyright>杨天天的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?s=400&amp;u=2e68d4884d4a1c3630a0cb1462128d10927eb78f&amp;v=4</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Sun, 22 Feb 2026 11:34:23 +0000</lastBuildDate><managingEditor>杨天天的博客</managingEditor><ttl>60</ttl><webMaster>杨天天的博客</webMaster><item><title>辨别自己的Windows系统版本</title><link>https://mhw-ytt.github.io/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>杨天天的博客</title><link>https://mhw-ytt.github.io</link><description>oi</description><copyright>杨天天的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?s=400&amp;u=2e68d4884d4a1c3630a0cb1462128d10927eb78f&amp;v=4</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Sun, 22 Feb 2026 11:38:44 +0000</lastBuildDate><managingEditor>杨天天的博客</managingEditor><ttl>60</ttl><webMaster>杨天天的博客</webMaster><item><title>辨别自己的Windows系统版本</title><link>https://mhw-ytt.github.io/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</link><description>
 &gt; 前提：未安装任何能修改系统版本显示的美化软件
 
 ## 方法一（最方便）
@@ -26,11 +26,11 @@
 - **同时按【Win】+【i】键**
 - **点击【系统】**
 - **再次点击【系统信息】**
-- **【Windows规格】字样下即为系统版本**。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</guid><pubDate>Sun, 22 Feb 2026 11:32:24 +0000</pubDate></item><item><title>Python下载指导</title><link>https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</link><description># 部分Windows版本所支持的Python版本列举
-
+- **【Windows规格】字样下即为系统版本**。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</guid><pubDate>Sun, 22 Feb 2026 11:32:24 +0000</pubDate></item><item><title>Python下载指导</title><link>https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</link><description>
 &gt; 下载链接由[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn '清华大学开源软件镜像站')提供
 
-## 系统列举及支持版本：
+## 系统列举及支持版本：（Tip：[辨别自己的Windows系统版本](https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html)）
+https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html
 
 | 系统           | 适用的Python版本    |
 | ------------ | -------------- |
@@ -38,7 +38,7 @@
 | Windows8.x   | [Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/ 'Python3.10.11') - |
 | Windows10/11 | [Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/ 'Python3.14.3') +  |
 
-\#系统及其对应的Python下载链接（均为本地安装）
+#系统及其对应的Python下载链接（均为本地安装）
 
 ## Windows7：
 

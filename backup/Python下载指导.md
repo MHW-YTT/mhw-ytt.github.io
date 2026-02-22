@@ -1,8 +1,8 @@
-# 部分Windows版本所支持的Python版本列举
 
 > 下载链接由[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn "清华大学开源软件镜像站")提供
 
-## 系统列举及支持版本：
+## 系统列举及支持版本：（Tip：[辨别自己的Windows系统版本](https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html)）
+https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html
 
 | 系统           | 适用的Python版本    |
 | ------------ | -------------- |
@@ -10,7 +10,7 @@
 | Windows8.x   | [Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/ "Python3.10.11") - |
 | Windows10/11 | [Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/ "Python3.14.3") +  |
 
-\#系统及其对应的Python下载链接（均为本地安装）
+#系统及其对应的Python下载链接（均为本地安装）
 
 ## Windows7：
 
