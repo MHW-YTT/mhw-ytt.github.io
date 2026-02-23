@@ -22,3 +22,5 @@
 ## Windows10/11：
 
 [Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/python-3.14.3.exe "Python3.14.3下载")
+
+### Tip：在安装Python时一定要将```Add python.exe to PATH```勾选！
