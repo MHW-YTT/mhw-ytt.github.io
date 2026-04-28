@@ -1,2 +1,120 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>绿林Greenwoo的博客</title><link>https://mhw-ytt.github.io</link><description>woo！</description><copyright>绿林Greenwoo的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?v=4&amp;size=64</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:23:43 +0000</lastBuildDate><managingEditor>绿林Greenwoo的博客</managingEditor><ttl>60</ttl><webMaster>绿林Greenwoo的博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>绿林Greenwoo的博客</title><link>https://mhw-ytt.github.io</link><description>woo！</description><copyright>绿林Greenwoo的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/179659172?v=4&amp;size=64</url><title>avatar</title><link>https://mhw-ytt.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:48:04 +0000</lastBuildDate><managingEditor>绿林Greenwoo的博客</managingEditor><ttl>60</ttl><webMaster>绿林Greenwoo的博客</webMaster><item><title>如何辨别自己的Windows系统版本</title><link>https://mhw-ytt.github.io/post/ru-he-bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</link><description>
+&gt; 前提：未安装任何能修改系统版本显示的美化软件
+
+## 方法一（最方便）
+
+- **同时按【Win】+【R】键**
+- **输入 ```winver```**
+- **窗口上方查看当前系统版本**
+
+
+## 方法二
+
+- **右键【此电脑】图标**
+- **点击【属性】**
+- **弹出的窗口即可查看系统版本**
+
+## 方法三（仅限Windows10）
+
+- **同时按【Win】+【i】键**
+- **点击【关于】**
+- **【Windows规格】字样下即为系统版本**
+
+## 方法四（仅限Windows11）
+
+- **同时按【Win】+【i】键**
+- **点击【系统】**
+- **再次点击【系统信息】**
+- **【Windows规格】字样下即为系统版本**。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/ru-he-bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html</guid><pubDate>Sun, 22 Feb 2026 11:32:24 +0000</pubDate></item><item><title>Python下载指导</title><link>https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</link><description>
+&gt; 下载链接由[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn '清华大学开源软件镜像站')提供
+
+## 系统列举及支持版本：（Tip：[辨别自己的Windows系统版本](https://ytt0.top/post/bian-bie-zi-ji-de-Windows-xi-tong-ban-ben.html)）
+
+| 系统           | 适用的Python版本    |
+| ------------ | -------------- |
+| Windows7     | [Python3.8.10](https://mirrors.tuna.tsinghua.edu.cn/python/3.8.10/ 'Python3.8.10') -  |
+| Windows8.x   | [Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/ 'Python3.10.11') - |
+| Windows10/11 | [Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/ 'Python3.14.3') +  |
+
+#系统及其对应的Python下载链接（均为本地安装）
+
+## Windows7：
+
+[Python3.8.10](https://mirrors.tuna.tsinghua.edu.cn/python/3.8.10/python-3.8.10.exe 'Python3.8.10下载')
+
+## Windows8.x：
+
+[Python3.10.11](https://mirrors.tuna.tsinghua.edu.cn/python/3.10.11/python-3.10.11.exe 'Python3.10.11下载')
+
+## Windows10/11：
+
+[Python3.14.3](https://mirrors.tuna.tsinghua.edu.cn/python/3.14.3/python-3.14.3.exe 'Python3.14.3下载')
+
+### Tip：在安装Python时一定要将```Add python.exe to PATH```勾选！。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/Python-xia-zai-zhi-dao.html</guid><pubDate>Sun, 22 Feb 2026 11:31:45 +0000</pubDate></item><item><title>如何让IDM冷静下来</title><link>https://mhw-ytt.github.io/post/ru-he-rang-IDM-leng-jing-xia-lai.html</link><description>打开IDM，点击下载-选项
+
+&lt;img width='800' height='446' alt='Image' src='https://github.com/user-attachments/assets/7653168e-66a2-4a90-9efc-5a1fb4ba838b' /&gt;
+
+点击文件类型
+
+&lt;img width='502' height='683' alt='Image' src='https://github.com/user-attachments/assets/e9030b73-423f-427e-b2c3-65b9587b1922' /&gt;
+
+多打一个空格，将“auoj.mvmzf.cn:8080”粘贴进去
+
+&lt;img width='502' height='683' alt='Image' src='https://github.com/user-attachments/assets/09b3fe00-cdc4-4d4d-8807-23b98aa1897b' /&gt;
+
+点击确定就完事了
+
+&lt;img width='90' height='37' alt='Image' src='https://github.com/user-attachments/assets/936060dc-643d-4458-9181-53c92952c6c7' /&gt;。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/ru-he-rang-IDM-leng-jing-xia-lai.html</guid><pubDate>Sun, 28 Dec 2025 09:44:36 +0000</pubDate></item><item><title>AUOJ补丁安装教程</title><link>https://mhw-ytt.github.io/post/AUOJ-bu-ding-an-zhuang-jiao-cheng.html</link><description>**打开[auoj.ytt11.xyz](https://auoj.ytt11.xyz/)或者[auscweb.yz0.top](https://auscweb.yz0.top/)**
+
+
+
+
+&lt;img width='117' height='47' alt='Image' src='https://vip.123pan.cn/1816541419/ymjew503t0m000d7w32xx8hevvwgyrr2DIYPAqJxDIFPBGxxDqDP.png' /&gt;
+
+**点击游玩**
+
+
+
+
+&lt;img width='696' height='277' alt='Image' src='https://vip.123pan.cn/1816541419/yk6baz03t0n000d7w33heaxk46ddy1bmDIYPAqJxDIFPBGxxDqDP.png' /&gt;
+
+**找到该卡片，点击红框框出的按钮**
+
+
+
+
+&lt;img width='386' height='157' alt='Image' src='https://vip.123pan.cn/1816541419/ymjew503t0l000d7w32xgc0i5ngulgx5DIYPAqJxDIFPBGxxDqDP.png' /&gt;
+
+**下载完补丁之后打开，会要求填写解压路径**
+### 路径获取方式：
+
+
+
+
+### _**右键游戏图标，点属性**__
+
+
+
+
+### _**全选起始位置，右键复制**_
+
+
+
+
+
+&lt;img width='386' height='157' alt='Image' src='https://vip.123pan.cn/1816541419/yk6baz03t0m000d7w33gjhbvaqxqyv02DIYPAqJxDIFPBGxxDqDP.png' /&gt;
+
+**回到补丁安装界面，把获得的路径粘贴上去，点击解压**
+
+
+
+
+
+&lt;img width='536' height='378' alt='Image' src='https://vip.123pan.cn/1816541419/ymjew503t0n000d7w32yclcxhxc3d6puDIYPAqJxDIFPBGxxDqDP.png' /&gt;
+
+**点击是，开始安装补丁**
+
+
+
+### **随后窗口会消失，补丁安装完成**。</description><guid isPermaLink="true">https://mhw-ytt.github.io/post/AUOJ-bu-ding-an-zhuang-jiao-cheng.html</guid><pubDate>Sun, 26 Oct 2025 12:02:52 +0000</pubDate></item></channel></rss>
